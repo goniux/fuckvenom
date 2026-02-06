@@ -1,14 +1,72 @@
 Hi, I'm goniux
-I am an offensive security researcher focusing on Windows Internals and Malware Analysis & DEV.
+This is my personal research repository documenting my journey into:
+- Windows offensive security
+- Shellcoding & low-level exploitation
+- Malware development experiments
+- Red team tradecraft
+- Reverse engineering & analysis
 
-🛠️ Current Project
-RedWindows Internal Labs: A collection of manual PE injection techniques and custom-coded x64 shellcode.
+This repo evolves in real time as I learn, experiment, break things, and document everything.
 
-🎯 Philosophy
-No MSFVenom: I build my own payloads from scratch to understand the binary-level mechanics of Windows.
+## 🧠 Purpose
+This is NOT just code dumping.
+Every folder here includes:
+✔ Deep technical breakdowns  
+✔ Experiment notes  
+✔ Failures + lessons learned  
+✔ Detection & defensive insights  
+✔ Practical red-team perspective  
 
-Manual Injection: I focus on manual PE surgery, including section creation and Entry Point hijacking.
+Goal → Understand how attacks work at a fundamental level.
+---
 
-💻 Core Skills 
-Reverse Engineering, PIC Writing
+## 🛠 Tech & Tools
+
+Typical stack used here:
+
+- C / C++ / Assembly / Python
+- Windows Internals
+- CffExplorer, x64dbg, ollydbg, PE editor, XVI32
+-  Debuggers
+- Kali + Windows Lab
+- Custom shellcoding
+
+## ⚠️ Disclaimer
+
+This repository exists strictly for:
+- Security research
+- Educational purposes
+- Defensive understanding
+
+No illegal usage is encouraged or supported.
+
+
+## 📈 Current Focus
+
+- Windows shellcoding fundamentals
+- AV/EDR evasion concepts
+- Process injection techniques
+- Offensive tooling development
+
+---
+
+## 🚀 Long-Term Goals
+
+- Advanced malware tradecraft
+- Detection engineering insights
+- Red team automation tooling
+- Deep OS internals knowledge
+
+---
+
+## 🤝 Connect / Collaborate
+
+Always open to discussions around:
+
+- Malware research
+- Red teaming
+- Detection bypass techniques
+- Security engineering
+
+
 
